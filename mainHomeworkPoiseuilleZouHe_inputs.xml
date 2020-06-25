@@ -1,0 +1,15 @@
+<Root>
+  <npre>1</npre>
+  <ns>50000</ns>
+  <nc>100</nc>
+  <nt>1000</nt>
+  <isForceStartScratch>1</isForceStartScratch>
+
+  <nx>100</nx>
+  <ny>100</ny>
+
+  <rho0>1.</rho0>
+  <nu>0.16666666666666666666666666666667</nu>
+  <deltaUx> 0.1 </deltaUx>
+
+</Root>

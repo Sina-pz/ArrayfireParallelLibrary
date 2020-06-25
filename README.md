@@ -1,2 +1,2 @@
-# ArrayfireParallelLibrary
-high performance software library for parallel computing 
+# ParalelLibraryArrayFireLbm
+ high performance software library for parallel computing 
